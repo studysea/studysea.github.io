@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0cbf02"],{"4c96":function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},r=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("h2",[e._v("直播页")])])}],u={},s=u,a=t("2877"),i=Object(a["a"])(s,c,r,!1,null,"edd84ce2",null);n["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d0cbf02.91349f37.js.map
